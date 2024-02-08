@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @keenlee5
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning STD
+- 👋 Hi, I’m ILKIN
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full-Stack Development
 - 📫 How to reach me:
       ilkindigo.ca@gmail.com
